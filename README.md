@@ -1,4 +1,4 @@
-# CVMill &mdash; Well Crafted Resumes
+# CVmill &mdash; Well Crafted Resumes
 
 CVmill Templates are a set of resume designs. They were originally used as templates by CVmill.com - a startup out of India that was founded in 2015, and shut down in 2018.
 
